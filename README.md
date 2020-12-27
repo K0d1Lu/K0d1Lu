@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, it's Lucas 👋
 
+I'm a tech lover from fr_FR 😄
 <!--
 **K0d1Lu/K0d1Lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
